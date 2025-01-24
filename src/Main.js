@@ -1,10 +1,11 @@
 import React from "react";
 
-const Main = () => {
-return(
-    <>
-    </>
-);
-};
+function Main(props) {
+    return(
+        <div className ="main">
+
+        </div>
+    );
+}
 
 export default Main;
