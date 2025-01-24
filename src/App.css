@@ -94,6 +94,14 @@
   gap: 20px
 }
 
+form{
+  margin: 10px;
+}
+
+form > input[type="submit" i]{
+  background-color: yellow;
+}
+
 .footer {
   grid-area: footer;
   background-color: #ced4da;
